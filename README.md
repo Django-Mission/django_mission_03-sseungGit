@@ -7,5 +7,5 @@ Basic미션을 진행했습니다.
 <img width="{80%}" src="https://github.com/Django-Mission/django_mission_03-sseungGit/blob/main/gif/FAQ.gif"/>
 
 2. '1:1문의' 영상
-<img width="{80%}" src="https://github.com/Django-Mission/django_mission_03-sseungGit/blob/main/gif/FAQ.gif"/>
+<img width="{80%}" src="https://github.com/Django-Mission/django_mission_03-sseungGit/blob/main/gif/Inquiry.gif"/>
 
